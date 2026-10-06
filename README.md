@@ -77,10 +77,6 @@ La aplicación incluye datos de prueba que cumplen con los requisitos:
 - [x] Se usa un solo método de navegación (Navigator.push)
 - [x] No se usan manejadores de estado externos al SDK
 
-## Autor
-
-Ing. Roilán Rodríguez Castillo
-
 ## Asignatura
 
 Programación para Dispositivos Móviles
